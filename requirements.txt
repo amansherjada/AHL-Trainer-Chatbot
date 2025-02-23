@@ -1,0 +1,10 @@
+dotenv
+streamlit
+langchain_pinecone
+langchain_huggingface
+langchain_groq
+langchain_core
+langchain
+pinecone
+re
+os
