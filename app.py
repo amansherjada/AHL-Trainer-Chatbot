@@ -222,7 +222,7 @@ def process_query(query):
 
 st.set_page_config(page_title="AHL Trainer Chatbot by Aman Khan", page_icon="🦱", layout="centered")
 st.title(f"AHL Trainer Chatbot")
-st.write("Ask questions related to training materials")
+st.write("Ask questions related to training materials, Developed by [Aman Khan](https://github.com/amansherjada)")
 
 # Display chat history
 for message in st.session_state.messages:
